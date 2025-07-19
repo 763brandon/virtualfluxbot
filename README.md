@@ -13,7 +13,7 @@ This repository hosts the official Privacy Policy for **VirtualFluxBot**, an AI-
 ## 📬 Contact
 
 For privacy-related concerns or data deletion requests, contact:  
-📧 brandonboateng763@gmail
+📧 brandonboateng763@gmail.com
 
 ## 🌐 Public Link
 
